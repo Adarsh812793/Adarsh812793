@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace">
+<style>
+  @keyframes fade{from{opacity:0}to{opacity:1}}
+  @keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes spinr{to{transform:rotate(-360deg)}}
+  @keyframes pulse{0%{r:9;opacity:.7}100%{r:22;opacity:0}}
+  @keyframes dash{to{stroke-dashoffset:-60}}
+  @keyframes twinkle{0%,100%{opacity:var(--o)}50%{opacity:1}}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  .a{opacity:0;animation:fade .5s ease forwards}
+  .u{opacity:0;animation:up .6s ease forwards;transform-box:fill-box}
+  
+</style>
+<defs>
+  <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1a2236" stroke-width=".6"/></pattern>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#e3d26f" stop-opacity=".18"/><stop offset="1" stop-color="#e3d26f" stop-opacity="0"/></radialGradient>
+  <linearGradient id="nameg" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#5ee6eb"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="899" height="429" rx="16" fill="#0a0e1a" stroke="#2a3550"/>
+<rect x="1" y="1" width="898" height="428" rx="16" fill="url(#g)" opacity=".55"/>
+
+<!-- title bar -->
+<circle cx="28" cy="26" r="5.5" fill="#ff5f57"/><circle cx="46" cy="26" r="5.5" fill="#febc2e"/><circle cx="64" cy="26" r="5.5" fill="#28c840"/>
+<text x="450" y="30" text-anchor="middle" fill="#8a96b0" font-size="11.5">adarsh812793@github: ~ — live</text>
+<text x="872" y="30" text-anchor="end" fill="#55617a" font-size="10.5">@Adarsh812793</text>
+<line x1="1" y1="48" x2="899" y2="48" stroke="#2a3550"/>
+
+<text x="40" y="84" fill="#8a96b0" font-size="12.5" style="clip-path:inset(0 100% 0 0);animation:type .5s steps(29) 0.3s forwards">$ ssh adarsh812793@github.com</text>
+<text x="40" y="104" fill="#3ddc84" font-size="12.5" style="clip-path:inset(0 100% 0 0);animation:type .5s steps(30) 0.8500000000000001s forwards">[ OK ] mounted 14 repositories</text>
+<text x="40" y="124" fill="#3ddc84" font-size="12.5" style="clip-path:inset(0 100% 0 0);animation:type .5s steps(48) 1.4000000000000001s forwards">[ OK ] synced 223 contributions (last 12 months)</text>
+<text x="40" y="144" fill="#3ddc84" font-size="12.5" style="clip-path:inset(0 100% 0 0);animation:type .5s steps(35) 1.9500000000000002s forwards">[ OK ] 3 followers online · 0 stars</text>
+<text x="40" y="164" fill="#e3d26f" font-size="12.5" style="clip-path:inset(0 100% 0 0);animation:type .5s steps(34) 2.5s forwards">&gt; boot complete. hello, world. i&#39;m</text>
+
+<g class="u" style="animation-delay:3.15s">
+  <text x="40" y="232" fill="url(#nameg)" font-size="42" font-weight="700" letter-spacing="1">Adarsh A Ladwa</text>
+  <rect x="414.8" y="200" width="18" height="38" fill="#e3d26f" style="animation:blink 1s step-end infinite"/>
+</g>
+<text class="a" x="40" y="266" fill="#e6edf7" font-size="14" style="animation-delay:3.4s">Full-stack developer · CS student</text>
+<text class="a" x="40" y="290" fill="#8a96b0" font-size="12" style="animation-delay:3.5s">Building things, breaking them, figuring out why.</text>
+
+<line x1="40" y1="330" x2="560" y2="330" stroke="#2a3550"/>
+<g class="u" style="animation-delay:3.65s">
+      <text x="40" y="368" fill="#55617a" font-size="9.5" letter-spacing="1.8">REPOSITORIES</text>
+      <text x="40" y="396" fill="#e6edf7" font-size="24" font-weight="600">14</text></g>
+<g class="u" style="animation-delay:3.77s">
+      <text x="170" y="368" fill="#55617a" font-size="9.5" letter-spacing="1.8">STARS</text>
+      <text x="170" y="396" fill="#e6edf7" font-size="24" font-weight="600">0</text></g>
+<g class="u" style="animation-delay:3.8899999999999997s">
+      <text x="300" y="368" fill="#55617a" font-size="9.5" letter-spacing="1.8">CONTRIBUTIONS</text>
+      <text x="300" y="396" fill="#e6edf7" font-size="24" font-weight="600">223</text></g>
+<g class="u" style="animation-delay:4.01s">
+      <text x="430" y="368" fill="#55617a" font-size="9.5" letter-spacing="1.8">FOLLOWERS</text>
+      <text x="430" y="396" fill="#e6edf7" font-size="24" font-weight="600">3</text></g>
+
+<!-- orbit -->
+<circle cx="720" cy="205" r="150" fill="url(#glow)"/>
+<circle cx="720" cy="205" r="50" fill="none" stroke="#2a3550" stroke-opacity="1" stroke-dasharray="1 0"/><g style="transform-origin:720px 205px;animation:spin 14s linear infinite;animation-delay:-0s">
+      <circle cx="770" cy="205" r="7" fill="#f1e05a"/><circle cx="770" cy="205" r="13" fill="#f1e05a" opacity=".18"/></g>
+<circle cx="720" cy="205" r="76" fill="none" stroke="#8f7cf7" stroke-opacity="0.5" stroke-dasharray="3 6"/><g style="transform-origin:720px 205px;animation:spinr 21s linear infinite;animation-delay:-3s">
+      <circle cx="796" cy="205" r="6" fill="#3178c6"/><circle cx="796" cy="205" r="12" fill="#3178c6" opacity=".18"/></g>
+<circle cx="720" cy="205" r="102" fill="none" stroke="#2a3550" stroke-opacity="1" stroke-dasharray="1 0"/><g style="transform-origin:720px 205px;animation:spin 28s linear infinite;animation-delay:-6s">
+      <circle cx="822" cy="205" r="5" fill="#663399"/><circle cx="822" cy="205" r="11" fill="#663399" opacity=".18"/></g>
+<circle cx="720" cy="205" r="128" fill="none" stroke="#8f7cf7" stroke-opacity="0.5" stroke-dasharray="3 6"/><g style="transform-origin:720px 205px;animation:spinr 35s linear infinite;animation-delay:-9s">
+      <circle cx="848" cy="205" r="4" fill="#3572A5"/><circle cx="848" cy="205" r="10" fill="#3572A5" opacity=".18"/></g>
+<circle cx="720" cy="205" r="26" fill="#0f1524" stroke="#e3d26f" stroke-opacity=".6"/>
+<text x="720" y="209" text-anchor="middle" fill="#e3d26f" font-size="11" font-weight="700">&lt;/&gt;</text>
+<g class="a" style="animation-delay:3.55s"><circle cx="600" cy="368" r="4" fill="#f1e05a"/><text x="610" y="372" fill="#8a96b0" font-size="11">JavaScript 68%</text></g><g class="a" style="animation-delay:3.6999999999999997s"><circle cx="720" cy="368" r="4" fill="#3178c6"/><text x="730" y="372" fill="#8a96b0" font-size="11">TypeScript 13%</text></g><g class="a" style="animation-delay:3.8499999999999996s"><circle cx="600" cy="386" r="4" fill="#663399"/><text x="610" y="390" fill="#8a96b0" font-size="11">CSS 12%</text></g><g class="a" style="animation-delay:4s"><circle cx="720" cy="386" r="4" fill="#3572A5"/><text x="730" y="390" fill="#8a96b0" font-size="11">Python 3%</text></g>
+<text x="878" y="416" text-anchor="end" fill="#55617a" font-size="9">updated 2026-11-24</text>
+</svg>
