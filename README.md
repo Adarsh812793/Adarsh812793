@@ -65,6 +65,11 @@ Become a stronger full-stack developer by shipping real projects.
 <table>
 <tr>
 <td width="25%" valign="top">
+<a href="https://github.com/Adarsh812793/systems-from-scratch"><b>systems-from-scratch</b></a><br>
+<sub>Closer to hardware (like memory allocation and stuff :&gt; )</sub><br><br>
+<code>C</code> ★ 0
+</td>
+<td width="25%" valign="top">
 <a href="https://github.com/Adarsh812793/AmazonProject"><b>AmazonProject</b></a><br>
 <sub>DEV work small project :&gt;</sub><br><br>
 <code>Python</code> ★ 0
@@ -79,11 +84,6 @@ Become a stronger full-stack developer by shipping real projects.
 <sub>Public work in motion.</sub><br><br>
 <code>JavaScript</code> ★ 0
 </td>
-<td width="25%" valign="top">
-<a href="https://github.com/Adarsh812793/Demo1"><b>Demo1</b></a><br>
-<sub>Public work in motion.</sub><br><br>
-<code>HTML</code> ★ 0
-</td>
 </tr>
 </table>
 <!-- PROJECTS:END -->
@@ -97,7 +97,7 @@ Become a stronger full-stack developer by shipping real projects.
 </p>
 
 <!-- STREAK:START -->
-<p align="center"><sub>🔥 4 day current streak · 24 active days · 223 contributions this year</sub></p>
+<p align="center"><sub>🔥 6 day current streak · 26 active days · 232 contributions this year</sub></p>
 <!-- STREAK:END -->
 
 <p align="center">

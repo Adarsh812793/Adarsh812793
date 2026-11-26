@@ -27,40 +27,40 @@
 <line x1="110" y1="192" x2="790" y2="192" stroke="#8f7cf7" stroke-opacity=".55" stroke-dasharray="6 6" style="animation:dash 3s linear infinite"/>
 <circle r="4" cy="192" fill="#5ee6eb"><animate attributeName="cx" values="110;790" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/></circle>
 <g class="u" style="animation-delay:0.4s">
-  <circle cx="140" cy="192" r="9" fill="none" stroke="#e34c26" style="animation:pulse 2.4s ease-out 0.4s infinite"/>
-  <circle cx="140" cy="192" r="13" fill="#0a0e1a" stroke="#e34c26" stroke-width="1.5"/>
-  <circle cx="140" cy="192" r="5" fill="#e34c26"/>
-  <text x="140" y="110" text-anchor="middle" fill="#55617a" font-size="10">21 / Jul 2026</text>
-  <text x="140" y="130" text-anchor="middle" fill="#e6edf7" font-size="15" font-weight="600">Demo1</text>
+  <circle cx="140" cy="192" r="9" fill="none" stroke="#f1e05a" style="animation:pulse 2.4s ease-out 0.4s infinite"/>
+  <circle cx="140" cy="192" r="13" fill="#0a0e1a" stroke="#f1e05a" stroke-width="1.5"/>
+  <circle cx="140" cy="192" r="5" fill="#f1e05a"/>
+  <text x="140" y="110" text-anchor="middle" fill="#55617a" font-size="10">05 / Sep 2026</text>
+  <text x="140" y="130" text-anchor="middle" fill="#e6edf7" font-size="15" font-weight="600">AirbnbClone</text>
   <text x="140" y="148" text-anchor="middle" fill="#8a96b0" font-size="10.5">Public work in motion.</text>
-  <text x="140" y="164" text-anchor="middle" fill="#e34c26" font-size="10">HTML · ★ 0</text>
+  <text x="140" y="164" text-anchor="middle" fill="#f1e05a" font-size="10">JavaScript · ★ 0</text>
 </g>
 <g class="u" style="animation-delay:0.75s">
   <circle cx="346.66666666666663" cy="192" r="9" fill="none" stroke="#f1e05a" style="animation:pulse 2.4s ease-out 0.75s infinite"/>
   <circle cx="346.66666666666663" cy="192" r="13" fill="#0a0e1a" stroke="#f1e05a" stroke-width="1.5"/>
   <circle cx="346.66666666666663" cy="192" r="5" fill="#f1e05a"/>
-  <text x="346.66666666666663" y="236" text-anchor="middle" fill="#55617a" font-size="10">05 / Sep 2026</text>
-  <text x="346.66666666666663" y="256" text-anchor="middle" fill="#e6edf7" font-size="15" font-weight="600">AirbnbClone</text>
-  <text x="346.66666666666663" y="274" text-anchor="middle" fill="#8a96b0" font-size="10.5">Public work in motion.</text>
+  <text x="346.66666666666663" y="236" text-anchor="middle" fill="#55617a" font-size="10">04 / Nov 2026</text>
+  <text x="346.66666666666663" y="256" text-anchor="middle" fill="#e6edf7" font-size="15" font-weight="600">TradeOS</text>
+  <text x="346.66666666666663" y="274" text-anchor="middle" fill="#8a96b0" font-size="10.5">A virtual trading platform</text>
   <text x="346.66666666666663" y="290" text-anchor="middle" fill="#f1e05a" font-size="10">JavaScript · ★ 0</text>
 </g>
 <g class="u" style="animation-delay:1.1s">
-  <circle cx="553.3333333333333" cy="192" r="9" fill="none" stroke="#f1e05a" style="animation:pulse 2.4s ease-out 1.1s infinite"/>
-  <circle cx="553.3333333333333" cy="192" r="13" fill="#0a0e1a" stroke="#f1e05a" stroke-width="1.5"/>
-  <circle cx="553.3333333333333" cy="192" r="5" fill="#f1e05a"/>
-  <text x="553.3333333333333" y="110" text-anchor="middle" fill="#55617a" font-size="10">04 / Nov 2026</text>
-  <text x="553.3333333333333" y="130" text-anchor="middle" fill="#e6edf7" font-size="15" font-weight="600">TradeOS</text>
-  <text x="553.3333333333333" y="148" text-anchor="middle" fill="#8a96b0" font-size="10.5">A virtual trading platform</text>
-  <text x="553.3333333333333" y="164" text-anchor="middle" fill="#f1e05a" font-size="10">JavaScript · ★ 0</text>
+  <circle cx="553.3333333333333" cy="192" r="9" fill="none" stroke="#3572A5" style="animation:pulse 2.4s ease-out 1.1s infinite"/>
+  <circle cx="553.3333333333333" cy="192" r="13" fill="#0a0e1a" stroke="#3572A5" stroke-width="1.5"/>
+  <circle cx="553.3333333333333" cy="192" r="5" fill="#3572A5"/>
+  <text x="553.3333333333333" y="110" text-anchor="middle" fill="#55617a" font-size="10">22 / Nov 2026</text>
+  <text x="553.3333333333333" y="130" text-anchor="middle" fill="#e6edf7" font-size="15" font-weight="600">AmazonProject</text>
+  <text x="553.3333333333333" y="148" text-anchor="middle" fill="#8a96b0" font-size="10.5">DEV work small project :&gt;</text>
+  <text x="553.3333333333333" y="164" text-anchor="middle" fill="#3572A5" font-size="10">Python · ★ 0</text>
 </g>
 <g class="u" style="animation-delay:1.4499999999999997s">
-  <circle cx="760" cy="192" r="9" fill="none" stroke="#3572A5" style="animation:pulse 2.4s ease-out 1.4499999999999997s infinite"/>
-  <circle cx="760" cy="192" r="13" fill="#0a0e1a" stroke="#3572A5" stroke-width="1.5"/>
-  <circle cx="760" cy="192" r="5" fill="#3572A5"/>
-  <text x="760" y="236" text-anchor="middle" fill="#55617a" font-size="10">22 / Nov 2026</text>
-  <text x="760" y="256" text-anchor="middle" fill="#e6edf7" font-size="15" font-weight="600">AmazonProject</text>
-  <text x="760" y="274" text-anchor="middle" fill="#8a96b0" font-size="10.5">DEV work small project :&gt;</text>
-  <text x="760" y="290" text-anchor="middle" fill="#3572A5" font-size="10">Python · ★ 0</text>
+  <circle cx="760" cy="192" r="9" fill="none" stroke="#555555" style="animation:pulse 2.4s ease-out 1.4499999999999997s infinite"/>
+  <circle cx="760" cy="192" r="13" fill="#0a0e1a" stroke="#555555" stroke-width="1.5"/>
+  <circle cx="760" cy="192" r="5" fill="#555555"/>
+  <text x="760" y="236" text-anchor="middle" fill="#55617a" font-size="10">26 / Nov 2026</text>
+  <text x="760" y="256" text-anchor="middle" fill="#e6edf7" font-size="15" font-weight="600">systems-from-scratch</text>
+  <text x="760" y="274" text-anchor="middle" fill="#8a96b0" font-size="10.5">Closer to hardware (like memo…</text>
+  <text x="760" y="290" text-anchor="middle" fill="#555555" font-size="10">C · ★ 0</text>
 </g>
 <text x="36" y="312" fill="#55617a" font-size="10">4 featured repositories · oldest → newest</text>
 </svg>
