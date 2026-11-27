@@ -66,7 +66,7 @@ Become a stronger full-stack developer by shipping real projects.
 <tr>
 <td width="25%" valign="top">
 <a href="https://github.com/Adarsh812793/systems-from-scratch"><b>systems-from-scratch</b></a><br>
-<sub>Closer to hardware (like memory allocation and stuff :&gt; )</sub><br><br>
+<sub>This is going to be a tough one boyyy :) , And that&#39;s exactly why we do it</sub><br><br>
 <code>C</code> ★ 0
 </td>
 <td width="25%" valign="top">
@@ -97,7 +97,7 @@ Become a stronger full-stack developer by shipping real projects.
 </p>
 
 <!-- STREAK:START -->
-<p align="center"><sub>🔥 6 day current streak · 26 active days · 232 contributions this year</sub></p>
+<p align="center"><sub>🔥 7 day current streak · 27 active days · 235 contributions this year</sub></p>
 <!-- STREAK:END -->
 
 <p align="center">
