@@ -66,7 +66,7 @@ Become a stronger full-stack developer by shipping real projects.
 <tr>
 <td width="25%" valign="top">
 <a href="https://github.com/Adarsh812793/systems-from-scratch"><b>systems-from-scratch</b></a><br>
-<sub>This is going to be a tough one boyyy :) , And that&#39;s exactly why we do it</sub><br><br>
+<sub>This is going to be a tough one boyyy :) , And that&#39;s exactly why we do it. This is 3-4 month&#39;s of work , will take time</sub><br><br>
 <code>C</code> ★ 0
 </td>
 <td width="25%" valign="top">

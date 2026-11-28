@@ -68,5 +68,5 @@
 <circle cx="720" cy="205" r="26" fill="#0f1524" stroke="#e3d26f" stroke-opacity=".6"/>
 <text x="720" y="209" text-anchor="middle" fill="#e3d26f" font-size="11" font-weight="700">&lt;/&gt;</text>
 <g class="a" style="animation-delay:3.55s"><circle cx="600" cy="368" r="4" fill="#f1e05a"/><text x="610" y="372" fill="#8a96b0" font-size="11">JavaScript 68%</text></g><g class="a" style="animation-delay:3.6999999999999997s"><circle cx="720" cy="368" r="4" fill="#3178c6"/><text x="730" y="372" fill="#8a96b0" font-size="11">TypeScript 13%</text></g><g class="a" style="animation-delay:3.8499999999999996s"><circle cx="600" cy="386" r="4" fill="#663399"/><text x="610" y="390" fill="#8a96b0" font-size="11">CSS 12%</text></g><g class="a" style="animation-delay:4s"><circle cx="720" cy="386" r="4" fill="#3572A5"/><text x="730" y="390" fill="#8a96b0" font-size="11">Python 3%</text></g>
-<text x="878" y="416" text-anchor="end" fill="#55617a" font-size="9">updated 2026-11-27</text>
+<text x="878" y="416" text-anchor="end" fill="#55617a" font-size="9">updated 2026-11-28</text>
 </svg>
